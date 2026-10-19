@@ -9,6 +9,8 @@ public class ClassInfo {
   }
 
   public static void main(String[] args) {
+    System.out.println();
     printCourseHeader("Math 1061", "Jenna Reis", 4);
+    printCourseHeader("IT 1050", "Dr. Jennifer", 2);
   }
 }
